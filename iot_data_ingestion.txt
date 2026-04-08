@@ -10,3 +10,6 @@ Just playing with branches.
 
 
 Master is back let me add something too.
+
+
+Bug is fixed by master.
